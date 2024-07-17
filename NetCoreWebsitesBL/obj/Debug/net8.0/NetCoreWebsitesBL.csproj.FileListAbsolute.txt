@@ -1,0 +1,12 @@
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/bin/Debug/net8.0/NetCoreWebsitesBL.deps.json
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/bin/Debug/net8.0/NetCoreWebsitesBL.dll
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/bin/Debug/net8.0/NetCoreWebsitesBL.pdb
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/obj/Debug/net8.0/NetCoreWebsitesBL.csproj.AssemblyReference.cache
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/obj/Debug/net8.0/NetCoreWebsitesBL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/obj/Debug/net8.0/NetCoreWebsitesBL.AssemblyInfoInputs.cache
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/obj/Debug/net8.0/NetCoreWebsitesBL.AssemblyInfo.cs
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/obj/Debug/net8.0/NetCoreWebsitesBL.csproj.CoreCompileInputs.cache
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/obj/Debug/net8.0/NetCoreWebsitesBL.dll
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/obj/Debug/net8.0/refint/NetCoreWebsitesBL.dll
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/obj/Debug/net8.0/NetCoreWebsitesBL.pdb
+/Users/md101/Desktop/gits/proyectos/netcorewebsites/NetCoreWebsitesBL/obj/Debug/net8.0/ref/NetCoreWebsitesBL.dll
