@@ -4,6 +4,6 @@ namespace NetCoreWebsitesBL.Models
 {
     public class AppUser : IdentityUser
     {
-        // Propiedades adicionales si es necesario
+        // Puedes añadir propiedades adicionales aquí si es necesario.
     }
 }

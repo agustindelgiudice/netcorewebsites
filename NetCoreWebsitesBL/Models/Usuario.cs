@@ -1,13 +1,11 @@
 using System;
+using Microsoft.AspNetCore.Identity;
 
-namespace NetCoreWebsitesBL.Data
+namespace NetCoreWebsitesBL.Models
 {
-    public class Usuario
+    public class Usuario : IdentityUser
     {
-        public int Id { get; set; }
-        public string Username { get; set; } 
-        public string Password { get; set; } 
-        public string Email { get; set; } 
+
         public string FirstName { get; set; } 
         public string LastName { get; set; } 
         public DateTime FechaCreacion { get; set; } 
@@ -18,9 +16,6 @@ namespace NetCoreWebsitesBL.Data
         // Constructor
         public Usuario()
         {
-            Username = "";
-            Password = "";
-            Email = "";
             FirstName = "";
             LastName = "";
             FechaCreacion = DateTime.MinValue;
